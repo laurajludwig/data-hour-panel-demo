@@ -35,8 +35,8 @@ You'll need a few things if you want to replicate this project exactly for yours
 - A [Heroku](https://www.heroku.com/) account (also free!). This is to publish the final built app to a web platform. Heroku is a PaaS provider, and the free tier is sufficient for these purposes
 
 ### Links
-- A recording of the live demo is available to Unifiers internally [here](link). 
-- The published app is available [here](link). 
+- A recording of the live demo is available to Unifiers internally [here](https://web.microsoftstream.com/video/e7698752-248c-4cbe-869f-3f267fc68ee4?list=studio). 
+- The published app is available [here](https://data-hour-panel-demo.herokuapp.com/app). 
 
 ### What is Data Hour?
 Unify's Data Hour series brings examples of new tech to busy consultants. The goal is to introduce new tech that other consultants are working with, and create commmunity around learning new things. Presentations encompass data viz, data engineering, and data science topics, as well as data literacy and ethics. 
